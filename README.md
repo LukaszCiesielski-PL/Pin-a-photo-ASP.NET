@@ -1,2 +1,2 @@
-# Pin-a-photo-ASP.NET-
+# Pin-a-photo-ASP.NET
 Projekt prowadzony na laboratoriach z ASP.NET
