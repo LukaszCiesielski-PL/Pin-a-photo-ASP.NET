@@ -1,0 +1,129 @@
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\appsettings.json
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.exe
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.deps.json
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.runtimeconfig.json
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.runtimeconfig.dev.json
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.dll
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\ref\Projekt.dll
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.pdb
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.Views.dll
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\bin\Debug\net5.0\Projekt.Views.pdb
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.AssemblyReference.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.AssemblyInfo.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorAssemblyInfo.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorAssemblyInfo.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\scopedcss\bundle\Projekt.styles.css
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.TagHelpers.input.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.TagHelpers.output.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorCoreGenerate.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.Views.pdb
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.dll
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\ref\Projekt.dll
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.pdb
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.genruntimeconfig.cache
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.CopyComplete
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\ciesi\OneDrive\Pulpit\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\UserList.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.csprojAssemblyReference.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.AssemblyInfoInputs.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.AssemblyInfo.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorAssemblyInfo.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorAssemblyInfo.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\staticwebassets\Projekt.StaticWebAssets.xml
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\scopedcss\bundle\Projekt.styles.css
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.TagHelpers.input.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.TagHelpers.output.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorCoreGenerate.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\UserList.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorTargetAssemblyInfo.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorTargetAssemblyInfo.cs
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.dll
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\ref\Projekt.dll
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.pdb
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\appsettings.json
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.exe
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.deps.json
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.runtimeconfig.json
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.runtimeconfig.dev.json
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.dll
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\ref\Projekt.dll
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.pdb
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.Views.dll
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.Views.pdb
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.Views.pdb
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.genruntimeconfig.cache
+C:\Users\Łukasz\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.CopyComplete
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\appsettings.Development.json
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\appsettings.json
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.exe
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.deps.json
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.runtimeconfig.json
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.runtimeconfig.dev.json
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.dll
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\ref\Projekt.dll
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.pdb
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.Views.dll
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\bin\Debug\net5.0\Projekt.Views.pdb
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.AssemblyReference.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.AssemblyInfoInputs.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.AssemblyInfo.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.CoreCompileInputs.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorAssemblyInfo.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorAssemblyInfo.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\staticwebassets\Projekt.StaticWebAssets.Manifest.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\staticwebassets\Projekt.StaticWebAssets.xml
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\scopedcss\bundle\Projekt.styles.css
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.TagHelpers.input.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.TagHelpers.output.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorCoreGenerate.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\User\UserList.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.RazorTargetAssemblyInfo.cs
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.Views.pdb
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.dll
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\ref\Projekt.dll
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.pdb
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.genruntimeconfig.cache
+D:\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\STUDIA\STUDIA\SEMESTR 5\Programowanie w ASP.NET\Laby\Projekt\Projekt\obj\Debug\net5.0\Projekt.csproj.CopyComplete

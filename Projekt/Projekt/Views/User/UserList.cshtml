@@ -1,0 +1,44 @@
+﻿@model ICollection<Projekt.Models.User>
+@*
+
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Ilość użytkowników: @Model.Count</h1>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th style="padding-left: 100px">Login</th>
+        <th style="padding-left: 100px">Email</th>
+        <th style="padding-left: 100px">Opcje</th>
+    </tr>
+    <tbody>
+        @foreach (var user in @Model)
+        {
+            <tr>
+                <td>
+                    @user.UID
+                </td>
+                <td style="padding-left: 100px">
+                    @user.Login
+                </td>
+                <td style="padding-left: 100px">
+                    @user.Email
+                </td>
+                <td style="padding-left: 100px">
+                    <a class="btn btn-dark" asp-controller="User" asp-action="Edit"
+                       asp-route-Id=@user.UID>Edytuj</a>
+                </td>
+                <td style="padding-left: 15px">
+                    <a class="btn btn-danger" asp-controller="User" asp-action="Delete"
+                       asp-route-ID=@user.UID>Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    
+</table>
+<br />
+<a class="btn btn-primary" asp-controller="User" asp-action="Add">Utwórz konto</a>
