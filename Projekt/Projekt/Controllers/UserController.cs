@@ -3,41 +3,39 @@ using Projekt.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations;
 
 namespace Projekt.Controllers
 {
+   
+
     public class UserController : Controller
     {
         static List<User> Users = new List<User>()
         {
-            new User()
-            {    
-                //Id = 1,
-                Login = "Clukasz_99",
-                Email = "ciesielski188@gmail.com",
-                Password = "Genesis123!",
-                RepeatPassword = "Genesis123!"
-            },
-            new User()
-            {   
-                //Id = 2,
-                Login = "Clukasz_999",
-                Email = "ciesielski1888@gmail.com",
-                Password = "Genesis1233!",
-                RepeatPassword = "Genesis1233!"
-            }
+            
 
         };
-        //public static int counter = Users.Count;
+        public static int counter = Users.Count;
+
+
+
+
+        private IUserRepository repository;
+        public UserController(IUserRepository repository)
+        {
+            this.repository = repository;
+        }
 
         public IActionResult Index()
         {
-            return View();
+            return View("UserList",repository.Users);
         }
 
         public IActionResult Add()
         {
-            //counter++;
+            counter++;
             return View();
         }
 
@@ -45,7 +43,7 @@ namespace Projekt.Controllers
         {
             if (user.Password == user.RepeatPassword && ModelState.IsValid)
             {
-                //user.Id = counter;
+                user.id = counter;
                 Users.Add(user);
                 return View("UserList", Users); 
             }            
@@ -57,12 +55,15 @@ namespace Projekt.Controllers
 
         }
         
-        public IActionResult Delete(Guid Id)
+        public IActionResult Delete(int id)
         {
-            var RemoveUser = Users.FirstOrDefault(el => Guid.Equals(Id, el.UID));
-            if (RemoveUser != null)
-                Users.Remove(RemoveUser);
-            return View("UserList", Users);
+            // var RemoveUser = Users.FirstOrDefault(el => el.id == Id);
+            // if (RemoveUser != null)
+            //     Users.Remove(RemoveUser);
+
+            var del = repository.Users.Remove(id).Entity;
+            repository.SaveChanges();
+            return View("UserList", repository.Users);
         }
 
         public IActionResult Edit(User user)
