@@ -22,15 +22,15 @@ namespace Projekt.Controllers
 
 
 
-        private IUserRepository repository;
-        public UserController(IUserRepository repository)
+        //private IUserRepository repository;
+        /*public UserController(IUserRepository repository)
         {
             this.repository = repository;
-        }
+        }*/
 
         public IActionResult Index()
         {
-            return View("UserList",repository.Users);
+            return View("UserList", Users);
         }
 
         public IActionResult Add()
@@ -57,18 +57,23 @@ namespace Projekt.Controllers
         
         public IActionResult Delete(int id)
         {
-            // var RemoveUser = Users.FirstOrDefault(el => el.id == Id);
-            // if (RemoveUser != null)
-            //     Users.Remove(RemoveUser);
+            var RemoveUser = Users.FirstOrDefault(el => el.id == id);
+            if (RemoveUser != null)
+            Users.Remove(RemoveUser);
 
-            var del = repository.Users.Remove(id).Entity;
-            repository.SaveChanges();
-            return View("UserList", repository.Users);
+            //var del = repository.Users.Remove(id).Entity;
+            //repository.SaveChanges();
+            return View("UserList", Users);
         }
 
         public IActionResult Edit(User user)
         {
             return View("Add");
+        }
+
+        public IActionResult LogIn(User user)
+        {
+            return View("LogIn");
         }
     }
 }

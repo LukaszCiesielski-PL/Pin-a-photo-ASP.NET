@@ -8,13 +8,14 @@ using System.Linq;
 
 namespace Projekt.Models
 {
-    public interface IUserRepository
+   
+    /*public interface IUserRepository
     {
         IQueryable<User> Users { get;}
         User Find(int id);
         User Delete(int id);
         User Add(User user);
-    }
+    }*/
 
     
 
@@ -24,7 +25,7 @@ namespace Projekt.Models
         public DbSet<User> Users { get; set; }
     }
 
-    public class EFUserRepository: IUserRepository
+    public class EFUserRepository //: IUserRepository
     {
         private ApplicationDbContext _applicationDbContext;
         public EFUserRepository(ApplicationDbContext applicationDbContext)
@@ -35,13 +36,13 @@ namespace Projekt.Models
         {
             return _applicationDbContext.Users.Find(id);
         }
-        public User Delete(int id)
+        /*public User Delete(int id)
         {
             var user = _applicationDbContext.Users.Remove(Find(id)).Entity;
             _applicationDbContext.SaveChanges();
             return user;
         }
-        
+        */
 
         public IQueryable<User> Users => _applicationDbContext.Users;
 
