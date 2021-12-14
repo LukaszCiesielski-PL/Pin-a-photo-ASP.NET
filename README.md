@@ -7,3 +7,4 @@ The components ultimately are to be:
 - possibility to search for other users
 - wall with photos (photo upload)
 - space for comments and reactions to uploaded images
+- possibility to follow another users
