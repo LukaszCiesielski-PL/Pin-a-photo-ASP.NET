@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EYPB/nP1tWkKSGcCDLMWAs1cZmmrcaxRsKL4gZrRVzNX98sS8aecRFzrrsOW0DpqIzKizm5+45mLa4MdO2os9g==",
+  "dgSpecHash": "MTTxbcOopGd6jbA59bIRNcc0TfxbdpR4x2BSf5zfsR7rYXivek2Ss9SJfAnDphJqgy5vQ5OqhZXNbnnzbXwk7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Łukasz\\Downloads\\Pin-a-photo-ASP.NET-main\\Pin-a-photo-ASP.NET-main\\PinAPhoto\\PinAPhoto\\PinAPhoto.csproj",
+  "projectFilePath": "C:\\Users\\Łukasz\\Desktop\\Pin-a-photo-ASP.NET\\PinAPhoto\\PinAPhoto\\PinAPhoto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Łukasz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Łukasz\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
