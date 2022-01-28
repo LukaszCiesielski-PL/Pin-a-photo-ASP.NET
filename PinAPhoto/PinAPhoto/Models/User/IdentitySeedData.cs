@@ -13,8 +13,6 @@ namespace PinAPhoto.Models
         private const string adminLogin = "Admin";
         private const string adminPassword = "Qazwsx123!";
 
-       
-
         public static async void EnsurePopulated(IApplicationBuilder app)
         {
             using (var scope = app.ApplicationServices.CreateScope())
@@ -42,10 +40,7 @@ namespace PinAPhoto.Models
                     };
                     await userManager.CreateAsync(adminUser, adminPassword);
                 }
-                await userManager.AddToRoleAsync(adminUser, Roles.Admin.ToString());
-
-
-                
+                await userManager.AddToRoleAsync(adminUser, Roles.Admin.ToString()); 
             }
         }
     }

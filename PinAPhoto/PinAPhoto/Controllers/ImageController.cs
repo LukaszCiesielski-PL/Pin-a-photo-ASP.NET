@@ -11,15 +11,9 @@ namespace PinAPhoto.Controllers
     {
         static List<Image> Images = new List<Image>();
 
-        private IImageRepository repository;
-        public ImageController(IImageRepository repository)
-        {
-            this.repository = repository;
-        }
-
         public IActionResult Index()
         {
-            return View("ImageList", repository.Images);
+            return View();
         }
         public IActionResult AddForm()
         {
@@ -30,44 +24,40 @@ namespace PinAPhoto.Controllers
             if (ModelState.IsValid)
             {
                 Images.Add(image);
-                return View("ImageList", repository.Images);
+                return View("ImageList", Images);
             }
             else
             {
                 return View("AddForm");
             }
         }
-       
 
-        public IActionResult DeleteImage(int Id)
+
+        public IActionResult DeleteImage(Guid Id)
         {
-            var imageToRemove = Images.FirstOrDefault(el => Id == el.id);
-            if (imageToRemove != null)
-                Images.Remove(imageToRemove);
+            var itemToRemove = Images.FirstOrDefault(el => Guid.Equals(Id, el.GID));
+            if (itemToRemove != null)
+                Images.Remove(itemToRemove);
             return View("ImageList", Images);
         }
 
-        public IActionResult EditForm(int Id)
-        {    
-            var currentImage = Images.FirstOrDefault(el => Id == el.id);
+        public IActionResult EditForm(Guid Id)
+        {
+            var currentImage = Images.FirstOrDefault(el => Guid.Equals(Id, el.GID));
             return View("EditForm", currentImage);
         }
 
-        
-
-        public IActionResult EditImage(Image image, int Id)
+        public IActionResult EditImage(Image image, Guid Id)
         {
             if (ModelState.IsValid)
             {
-                var editImage = Images.Find(p => p.id == Id);
-                editImage.Title = image.Title;
-                editImage.Description = image.Description;
+                Images.Find(p => p.GID == Id).Title = image.Title;
+                Images.Find(p => p.GID == Id).Description = image.Description;
                 return View("ImageList", Images);
             }
             else
             {
-                var currentImage = Images.FirstOrDefault(el => Id == el.id);
-                return View("EditForm", currentImage);
+                return View("ImageList", Images);
             }
         }
 

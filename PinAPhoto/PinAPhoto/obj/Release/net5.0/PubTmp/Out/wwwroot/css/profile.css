@@ -1,0 +1,106 @@
+﻿form, .profil_main_site {
+    width: auto;
+    height: auto;
+    text-align: center;
+    background-color: #fafafa;
+    display: grid;
+    justify-content: center;
+    grid-template-rows: 38%;
+    row-gap: 50px;
+    padding-top: 50px;
+}
+
+
+.profil_main_site {
+    height: min-content !important;
+    padding-bottom: 50px;
+}
+.profile_card {
+    width: 600px;
+    height: min-content;
+    background-color: white;
+    border: solid 1px #d5d2d2;
+    box-shadow: 0px 3px 16px -6px rgba(66, 68, 90, 1);
+    border-radius: 5px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.profile_avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -75px;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    border: solid 8px white;
+    box-shadow: 0px 3px 16px -6px rgba(66, 68, 90, 1);
+    z-index: 999;
+    background-image: url("../Photo/wp6369197.jpg");
+}
+
+.User_Name {
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.User_Nick {
+    margin-bottom: 25px;
+}
+
+.User_Description {
+    padding-left: 75px;
+    padding-right: 75px;
+    margin-bottom: 40px;
+}
+
+.function_on_profile {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: 80px;
+    column-gap: 0px;
+
+    
+}
+.function_on_profile_update {
+    display: grid;
+    justify-content: center;
+    grid-template-rows: 80px;
+    column-gap: 0px;
+}
+
+function_on_profile_other_user {
+    display: grid;
+    justify-content: center;
+}
+
+hr {
+    border: 1 px solid rgb(132,133,143);
+    width: 60%;
+    margin-bottom: 30px;
+}
+
+.profile_card > h2 {
+    margin-bottom: 30px;
+}
+
+.your_photos {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 43% 43%;
+    grid-template-rows: 258px 258px;
+    column-gap: 30px;
+    row-gap: 35px;
+}
+.UpdateInfo {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 0px;
+}
+.Av_photo{
+    width: 80px ;
+    height: 80px;
+
+}

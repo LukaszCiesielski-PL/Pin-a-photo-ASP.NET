@@ -27,7 +27,8 @@ namespace PinAPhoto.Controllers
         }
         public IActionResult ShowProfile()
         {
-            return View();
+            var user = _crudMainUserRepository.Find(User.Identity.Name);
+            return View(user);
         }
 
         public IActionResult SaveChanges(Profile setInfoUser)

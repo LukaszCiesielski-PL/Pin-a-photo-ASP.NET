@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="~/css/profile.css" />
     <link rel="stylesheet" href="~/css/commentphoto.css" />
     <link rel="stylesheet" href="~/css/visitedprofile.css" />
+    <link rel="stylesheet" href="~/css/AddForm.css" />
 </head>
 <body>
     <header class="header">
@@ -29,7 +30,7 @@
                 {
             <div class="links_nav_group">
                 <a class="back_home" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-            <!--XXX-->    <a class="nav-link text-dark" asp-area="" asp-controller="Image" asp-action="Index">Image</a>
+                
                 <a class="profile" asp-area="" asp-controller="Profile" asp-action="ShowProfile">Profile</a>
 
                 @if (User.IsInRole("Admin"))

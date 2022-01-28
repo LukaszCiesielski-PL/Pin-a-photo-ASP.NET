@@ -29,10 +29,10 @@ namespace PinAPhoto
 
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllersWithViews();
             services.AddSession();
             services.AddMvc();
             services.AddMemoryCache();
-            services.AddControllersWithViews();
 
             services.AddDbContext<AppIdentityDbContext>(options =>
                 options.UseSqlServer(
@@ -40,8 +40,6 @@ namespace PinAPhoto
             services.AddIdentity<MainUser, IdentityRole>()
             .AddEntityFrameworkStores<AppIdentityDbContext>()
             .AddDefaultTokenProviders();
-
-            services.AddTransient<IImageRepository, EFImageRepository>();
             services.AddTransient<IMainUserRepository, EFUserRepository>();
             services.AddTransient<ICrudMainUserRepository, CrudUserRepository>();
             services.AddAuthorization(options =>
