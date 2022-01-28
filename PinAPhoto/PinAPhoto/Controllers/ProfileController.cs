@@ -19,7 +19,7 @@ namespace PinAPhoto.Controllers
             _crudMainUserRepository = crudMainUserRepository;
             _userRepository = userRepository;
         }
-
+        
 
         public IActionResult UpdateProfile()
         {
@@ -30,9 +30,10 @@ namespace PinAPhoto.Controllers
             return View();
         }
 
-        public IActionResult SaveChanges(SetInfoUser setInfoUser)
+        public IActionResult SaveChanges(Profile setInfoUser)
         {
             var user = _crudMainUserRepository.Find(User.Identity.Name);
+           
 
             if (setInfoUser.Name != null)
             {
@@ -49,7 +50,7 @@ namespace PinAPhoto.Controllers
             }*/
             _crudMainUserRepository.Update(user);
 
-            return View("\\Views\\Profile\\ShowProfile.cshtml");
+            return View("\\Views\\Profile\\ShowProfile.cshtml", user);
 
 
         }

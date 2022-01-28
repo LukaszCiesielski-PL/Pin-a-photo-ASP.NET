@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PinAPhoto.Models.Profile
 {
-    public class SetInfoUser
+    public class Profile
     {
         [StringLength(50, MinimumLength = 5, ErrorMessage = "Podaj login, minimum 5 znaków")]
         public string Name { get; set; }

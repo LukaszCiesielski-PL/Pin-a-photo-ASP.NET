@@ -26,21 +26,6 @@ namespace PinAPhoto.Controllers
         }
 
 
-        
-        public IActionResult Profile()
-        {
-            return View();
-        }
-        public IActionResult VisitedProfile()
-        {
-            return View();
-        }
-        public IActionResult CommentPhoto()
-        {
-            return View();
-        }
-        
-
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

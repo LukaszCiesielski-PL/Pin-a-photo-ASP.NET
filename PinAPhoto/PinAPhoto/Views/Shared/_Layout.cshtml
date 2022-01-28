@@ -27,19 +27,19 @@
 
                 @if (User.Identity.IsAuthenticated)
                 {
-                    <div class="links_nav_group">
-                        <a class="back_home" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <div class="links_nav_group">
+                <a class="back_home" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+            <!--XXX-->    <a class="nav-link text-dark" asp-area="" asp-controller="Image" asp-action="Index">Image</a>
+                <a class="profile" asp-area="" asp-controller="Profile" asp-action="ShowProfile">Profile</a>
 
-                        <a class="profile" asp-area="" asp-controller="Profile" asp-action="ShowProfile">Profile</a>
-                        
-                        @if (User.IsInRole("Admin"))
-                        {
-                            <a class="friends" asp-area="" asp-controller="Admin" asp-action="AllUsers">All Users</a>
-                            <a class="" asp-action="" asp-area="" asp-controller="" style="margin-left:25px;">ADMIN</a>
-                        }
-                        <a class="sign_in" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a class="friends" asp-area="" asp-controller="Admin" asp-action="AllUsers">All Users</a>
+                    <a class="" asp-action="" asp-area="" asp-controller="" style="margin-left:25px;">ADMIN</a>
+                }
+                <a class="sign_in" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
 
-                    </div>
+            </div>
                 }
                 else
                 {

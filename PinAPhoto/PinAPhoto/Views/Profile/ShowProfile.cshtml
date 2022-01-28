@@ -1,16 +1,17 @@
-﻿@model PinAPhoto.Models.MainUser
+﻿@model IQueryable<MainUser>
 @{
     ViewData["Title"] = "Profil";
 }
 
-<form  asp-controller="Profil"  method="post">
+<form asp-controller="Profil" method="post">
     <div class="profil_main_site">
         <div class="profile_card">
             <div class="profile_avatar">
 
             </div>
-            
+
             <div class="User_Name"><h5>@User.Identity.Name</h5></div>
+           
             <div class="User_Description"></div>
             <hr />
 
@@ -34,7 +35,7 @@
                     </a>
                 </div>
 
-               
+
 
             </div>
 
@@ -52,5 +53,5 @@
         </div>
     </div>
 </form>
-    
+
 

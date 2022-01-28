@@ -8,6 +8,7 @@
         <th>User ID</th>
         <th>Name</th>
         <th>Email</th>
+        <th>Description</th>
         <th>Delete</th>
     </tr>
     <tbody>
@@ -22,6 +23,9 @@
                 </td>
                 <td>
                     @user.Email
+                </td>
+                <td>
+                    @user.Description
                 </td>
                 <td>                   
                     @if (user.UserName != User.Identity.Name)
