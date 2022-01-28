@@ -22,6 +22,7 @@ Użytkownik
 - może wyświetlać swoje dane
 - może edytować swoje dane w profilu
 - może uploadować zdjęcia
+- może usuwać zdjęcia
 - może edytować właściwości zdjęcia
 
 Administrator
