@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj": {}
+    "C:\\Users\\Łukasz\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj": {
+    "C:\\Users\\Łukasz\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj",
+        "projectUniqueName": "C:\\Users\\Łukasz\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj",
         "projectName": "Projekt",
-        "projectPath": "D:\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj",
-        "packagesPath": "C:\\Users\\ciesi\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\obj\\",
+        "projectPath": "C:\\Users\\Łukasz\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\Projekt.csproj",
+        "packagesPath": "C:\\Users\\Łukasz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Łukasz\\OneDrive - Wyższa Szkoła Ekonomii i Informatyki w Krakowie\\STUDIA\\STUDIA\\SEMESTR 5\\Programowanie w ASP.NET\\Laby\\Pin-a-photo-ASP.NET\\Projekt\\Projekt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ciesi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Łukasz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
