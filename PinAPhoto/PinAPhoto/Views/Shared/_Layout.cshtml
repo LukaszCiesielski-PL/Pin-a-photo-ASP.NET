@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/layout.css" />
+    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="~/css/friends.css" />
+    <link rel="stylesheet" href="~/css/signupin.css" />
+    <link rel="stylesheet" href="~/css/profile.css" />
+    <link rel="stylesheet" href="~/css/commentphoto.css" />
+    <link rel="stylesheet" href="~/css/visitedprofile.css" />
+</head>
+<body>
+    <header class="header">
+        <nav class="navigation">
+
+            <div class="container">
+                <div class="Logo">PinAPhoto</div>
+
+                <div class="serach_bar">
+                    <input type="text" placeholder="Search.." name="search" >
+                    <button type="submit"><img src="https://img.icons8.com/glyph-neue/64/000000/search--v1.png" width="20" height="20" /></button>
+                </div>
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <div class="links_nav_group">
+                        <a class="back_home" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+
+                        <a class="profile" asp-area="" asp-controller="Profile" asp-action="ShowProfile">Profile</a>
+                        
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <a class="friends" asp-area="" asp-controller="Admin" asp-action="AllUsers">All Users</a>
+                            <a class="" asp-action="" asp-area="" asp-controller="" style="margin-left:25px;">ADMIN</a>
+                        }
+                        <a class="sign_in" asp-area="" asp-controller="Account" asp-action="Logout">Logout</a>
+
+                    </div>
+                }
+                else
+                {
+                    <div class="links_nav_group">
+                        <a class="sign_up" asp-area="" asp-controller="Account" asp-action="SignUp">Sign up</a>
+                        <a class="sign_in" asp-area="" asp-controller="Account" asp-action="SignIn">Sign in</a>
+                    </div>
+
+                }
+
+
+            </div>
+
+        </nav>
+    </header>
+
+    <section class="main_site">
+        <main class="main_site_text">
+            @RenderBody()
+        </main>
+    </section>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

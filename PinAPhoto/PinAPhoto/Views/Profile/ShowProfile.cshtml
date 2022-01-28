@@ -1,0 +1,56 @@
+﻿@model PinAPhoto.Models.MainUser
+@{
+    ViewData["Title"] = "Profil";
+}
+
+<form  asp-controller="Profil"  method="post">
+    <div class="profil_main_site">
+        <div class="profile_card">
+            <div class="profile_avatar">
+
+            </div>
+            
+            <div class="User_Name"><h5>@User.Identity.Name</h5></div>
+            <div class="User_Description"></div>
+            <hr />
+
+            <div class="function_on_profile">
+                <div>
+                    <a class="UpdateInfo" asp-controller="Profile" asp-action="UpdateProfile">
+                        <img src="https://img.icons8.com/material-rounded/24/000000/edit--v1.png" width="50" height="50" />
+                        <h6>Edit your profile</h6>
+                    </a>
+                </div>
+                <div>
+                    <a class="UpdateInfo" asp-controller="Profile" asp-action="UpdateProfile">
+                        <img src="https://img.icons8.com/material/50/000000/upload--v1.png" />
+                        <h6>Add new photo</h6>
+                    </a>
+                </div>
+                <div>
+                    <a class="UpdateInfo" asp-controller="Profile" asp-action="UpdateProfile">
+                        <img src="https://img.icons8.com/glyph-neue/64/000000/name.png" width="50" height="50" />
+                        <h6>Upload your avatar</h6>
+                    </a>
+                </div>
+
+               
+
+            </div>
+
+            <hr />
+            <h2>Your Photos</h2>
+
+            <div class="your_photos">
+                <img src="/Photo/HYUtdS.jpg" alt="d" width="258" height="258" />
+                <img src="/Photo/4k-desktop-wallpaper.-2560×1080.jpg" alt="d" width="258" height="258" />
+                <img src="/Photo/78bff52c38128ba1e8fb43cc39a93b71.jpg" alt="d" width="258" height="258" />
+                <img src="/Photo/Camera Roll.jpg" alt="d" width="258" height="258" />
+                <img src="/Photo/wp6369197.jpg" alt="d" width="258" height="258" />
+                <img src="/Photo/Camera Roll.jpg" alt="d" width="258" height="258" />
+            </div>
+        </div>
+    </div>
+</form>
+    
+

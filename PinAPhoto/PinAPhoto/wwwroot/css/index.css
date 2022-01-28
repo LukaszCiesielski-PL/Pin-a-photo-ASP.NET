@@ -1,0 +1,21 @@
+﻿body {
+    text-align: center;
+    height: max-content;
+    background-color: #fafafa;
+}
+h1 {
+    margin-top: 60px;
+}
+.home_site_grid {
+    margin-top: 45px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: 258px 258px 258px;
+    column-gap: 25px;
+    row-gap: 25px;
+}
+
+
+
+

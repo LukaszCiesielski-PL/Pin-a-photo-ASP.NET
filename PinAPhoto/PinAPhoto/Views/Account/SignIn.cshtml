@@ -1,0 +1,30 @@
+﻿@model PinAPhoto.Models.LoginModel
+
+@{
+    ViewData["Title"] = "Logowanie";
+}
+
+<form asp-action="Login" asp-controller="Account" method="post">
+
+    <div class="sign_in_main">
+        <div class="content_singIn">
+            <div class="logo_in_sign">PinAPhoto</div><br />
+
+            <span asp-validation-for="UserName" class="text-danger" style="font-size: smaller; font-weight: 600;"></span><br />
+            <input asp-for="UserName" placeholder="Login" /><br />
+
+            <span asp-validation-for="Password" class="text-danger" style="font-size: smaller; font-weight: 600;"></span><br />
+            <input asp-for="Password" placeholder="Password" type="password" /><br />
+
+            <button type="submit">Sign in</button><br /><br />
+
+            <input asp-for="ReturnUrl" type="hidden" />
+
+        </div>
+        
+    </div>
+    <div class="sign_up_mainIn">
+        You do not have an account? <a class="link_signUp" asp-controller="Home" asp-action="SignUp">Sign Up</a>
+    </div>
+    
+</form>

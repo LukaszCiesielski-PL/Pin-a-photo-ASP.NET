@@ -1,0 +1,33 @@
+﻿@model PinAPhoto.Models.Registration
+@{
+    ViewData["Title"] = "Rejestracja";
+}
+
+<form asp-action="Registration" asp-controller="Account" method="post">
+
+    <div class="sign_up_main">
+        <div class="content_singUp">
+            <div class="logo_in_sign">PinAPhoto</div><br />
+
+            <span asp-validation-for="Email" class="text-danger" style="font-size:smaller; font-weight:600;"></span>
+            <input placeholder="Email" asp-for="Email" /><br />
+            <span asp-validation-for="Name" class="text-danger" style="font-size:smaller; font-weight:600;"></span>
+            <input placeholder="Your Login" asp-for="Name" /><br />
+            <!--<span asp-validation-for="Login" class="text-danger" style="font-size:smaller; font-weight:600;"></span>
+    <input placeholder="Login" asp-for="Login" /><br />-->
+            <span asp-validation-for="Password" class="text-danger" style="font-size: smaller; font-weight: 600; "></span>
+            <input type="password" placeholder="Password min. 8 sign" asp-for="Password" /><br />
+            <span asp-validation-for="RepeatPassword" class="text-danger" style="font-size: smaller; font-weight: 600; "></span>
+            <input type="password" placeholder="Repeat password" asp-for="RepeatPassword" />
+
+
+            <button type="submit" class="">Next</button>
+
+            <input asp-for="ReturnUrl" type="hidden" />
+        </div>
+    </div>
+
+    <div class="sign_in_mainUp">
+        You have an account? <a class="link_signIn" asp-controller="Home" asp-action="SignIn">Sign in</a>
+    </div>
+</form>
