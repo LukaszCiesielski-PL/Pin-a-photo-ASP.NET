@@ -7,6 +7,7 @@ Aplikacja ta symuluje częściowe funkcje Pinteresta.
 -----------------------
 DZIAŁAJĄCE FUNKCJONALNOŚCI
 -----------------------
+- Migracja danych do bazy
 - Walidacja wprowadzanych danych
 - Rejestracja nowych użytkowników
 - Logowanie z podziałem na:
